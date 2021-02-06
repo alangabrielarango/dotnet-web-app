@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GIT\\dotnet-web-app\\dotnet-web-app\\dotnet-web-app.csproj": {}
+    "E:\\GIT\\dotnet-web-app\\dotnet-web-app.csproj": {}
   },
   "projects": {
-    "E:\\GIT\\dotnet-web-app\\dotnet-web-app\\dotnet-web-app.csproj": {
+    "E:\\GIT\\dotnet-web-app\\dotnet-web-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GIT\\dotnet-web-app\\dotnet-web-app\\dotnet-web-app.csproj",
+        "projectUniqueName": "E:\\GIT\\dotnet-web-app\\dotnet-web-app.csproj",
         "projectName": "dotnet-web-app",
-        "projectPath": "E:\\GIT\\dotnet-web-app\\dotnet-web-app\\dotnet-web-app.csproj",
+        "projectPath": "E:\\GIT\\dotnet-web-app\\dotnet-web-app.csproj",
         "packagesPath": "C:\\Users\\allar\\.nuget\\packages\\",
-        "outputPath": "E:\\GIT\\dotnet-web-app\\dotnet-web-app\\obj\\",
+        "outputPath": "E:\\GIT\\dotnet-web-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allar\\AppData\\Roaming\\NuGet\\NuGet.Config"
